@@ -1,0 +1,7 @@
+type: AZURE
+config:
+  storage_account: "hazardsthanos"
+  storage_account_key: "s8IBVFfsV+ZhTS122KF6YkzhFs4ZeK3OhK0OP2FSBcvsWTXBuiX2dEsP2rBhrVwSNnlqr/Bsk0hU0zkCZRgD1g=="
+  container: "prometheus-metrics"
+  endpoint: "blob.core.windows.net"
+  max_retries: 0
