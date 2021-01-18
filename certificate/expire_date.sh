@@ -22,3 +22,4 @@ do
     echo "OK - Certificate expires on `date -d @$expirationdate` ";
   fi;
 done
+
